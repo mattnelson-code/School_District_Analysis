@@ -28,7 +28,7 @@
 3. % Passing Reading: 85.8% to 85.7% (-0.1%)
 4. % Overall Passing: 65.2% to 64.9% (-0.3%)
 
-#### Charts
+#### Data
 
 * Before: ![District_Analysis_Before](Images/District_Summary_Before.png)
 * After: ![District_Analysis_After](Images/District_Summary_After.png)
@@ -43,23 +43,31 @@
 4. % Passing Reading: 97.31% to 97.02% (-0.29%)
 5. % Overall Passing: 90.95% to 90.63% (-0.32%)
 
-#### Charts 
+#### Data 
 
 * Before: ![School_Analysis_Before](Images/School_Summary_Before.png)
 * After: ![School_Analysis_After](Images/School_Summary_After.png)
 
 ### Thomas HS Relative to Other Schools 
 
+#### Changes
+
 * Thomas HS's status remains the same relative to other schools, with the second highest overall passing percentage. 
 * However, as mentioned in the School Summary section, Thomas HS's overall passing percentage decreases by 0.32%. 
+
+#### Data
 
 * Before: ![School_Rankings_Before](Images/School_Rankings_Before.png)
 * After: ![School_Rankings_After](Images/School_Rankings_After.png)
 
 ### Math and Reading Scores by Grade
 
+#### Changes
+
 * Math Changes: Thomas HS 9th grade's omission is the only change for math scores by grade
 * Reading Changes: Thomas HS 9th grade's omission is the only change for reading scores by grade 
+
+#### Data
 
 * Math Before:
 
@@ -79,19 +87,34 @@
 
 ### Scores by School Spending
 
+#### Changes
+
 * There are no changes in scores by school spending.
+
+#### Data
+
 * Before: ![Spending_Summary_Before](Images/Spending_Summary_Before.png)
 * After: ![Spending_Summary_After](Images/Spending_Summary_After.png)
 
 ### Scores by School Size
 
+#### Changes
+
 * There are no changes in scores by school size.
+
+#### Data
+
 * Before: ![Size_Summary_Before](Images/Size_Summary_Before.png)
 * After: ![Size_Summary_After](Images/Size_Summary_After.png)
 
 ### Scores by School Type 
 
+#### Changes
+
 * There are no changes in scores by school type.
+
+#### Data
+
 * Before: ![Type_Summary_Before](Images/Type_Summary_Before.png)
 * After: ![Type_Summary_After](Images/Type_Summary_After.png)
 
