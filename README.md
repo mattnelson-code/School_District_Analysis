@@ -26,8 +26,8 @@
     2. % Passing Math: 75.0% to 74.8% (-0.2%)
     3. % Passing Reading: 85.8% to 85.7% (-0.1%)
     4. % Overall Passing: 65.2% to 64.9% (-0.3%)
-* Before: ![District_Analysis_Before](Images/District_Analysis_Before.png)
-* After: ![District_Analysis_After](Images/District_Analysis_After.png)
+* Before: ![District_Analysis_Before](Images/District_Summary_Before.png)
+* After: ![District_Analysis_After](Images/District_Summary_After.png)
 
 ### School Summary 
 
@@ -37,8 +37,8 @@
     3. % Passing Math: 93.27% to 93.19% (-0.08%)
     4. % Passing Reading: 97.31% to 97.02% (-0.29%)
     5. % Overall Passing: 90.95% to 90.63% (-0.32%)
-* Before: ![School_Analysis_Before](Images/School_Analysis_Before.png)
-* After: ![School_Analysis_After](Images/School_Analysis_After.png)
+* Before: ![School_Analysis_Before](Images/School_Summary_Before.png)
+* After: ![School_Analysis_After](Images/School_Summary_After.png)
 
 ### Thomas HS Relative to Other Schools 
 
@@ -53,11 +53,17 @@
 * Math Changes: Thomas HS 9th grade's omission is the only change for math scores by grade
 * Reading Changes: Thomas HS 9th grade's omission is the only change for reading scores by grade 
 
-* Math Before: ![Math_Scores_By_Grade_Before](Images/Math_Scores_By_Grade_Before.png)
-* Math After: ![Math_Scores_By_Grade_After](Images/Math_Scores_By_Grade_After.png)
+* Math Before:
+![Math_Scores_By_Grade_Before](Images/Math_Scores_By_Grade_Before.png)
 
-* Reading Before: ![Reading_Scores_By_Grade_Before](Images/Reading_Scores_By_Grade_Before.png)
-* Reading After: ![Reading_Scores_By_Grade_After](Images/Reading_Scores_By_Grade_After.png)
+* Math After:
+![Math_Scores_By_Grade_After](Images/Math_Scores_By_Grade_After.png)
+
+* Reading Before:
+![Reading_Scores_By_Grade_Before](Images/Reading_Scores_By_Grade_Before.png)
+
+* Reading After:
+![Reading_Scores_By_Grade_After](Images/Reading_Scores_By_Grade_After.png)
 
 ### Scores by School Spending
 
