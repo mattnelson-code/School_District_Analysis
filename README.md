@@ -21,22 +21,30 @@
 
 ### District Summary
 
-* Changes include
-    1. Average Math Score: 79.0 to 78.9 (-0.1)
-    2. % Passing Math: 75.0% to 74.8% (-0.2%)
-    3. % Passing Reading: 85.8% to 85.7% (-0.1%)
-    4. % Overall Passing: 65.2% to 64.9% (-0.3%)
+#### Changes 
+
+1. Average Math Score: 79.0 to 78.9 (-0.1)
+2. % Passing Math: 75.0% to 74.8% (-0.2%)
+3. % Passing Reading: 85.8% to 85.7% (-0.1%)
+4. % Overall Passing: 65.2% to 64.9% (-0.3%)
+
+#### Charts
+
 * Before: ![District_Analysis_Before](Images/District_Summary_Before.png)
 * After: ![District_Analysis_After](Images/District_Summary_After.png)
 
-### School Summary 
+### School Summary: Thomas HS Only School with Changes
 
-* Thomas HS is the only school with changes. These changes include 
-    1. Average Math Score: 83.42 to 83.35 (-0.07)
-    2. Average Reading Score: 83.85 to 83.90 (+0.05)
-    3. % Passing Math: 93.27% to 93.19% (-0.08%)
-    4. % Passing Reading: 97.31% to 97.02% (-0.29%)
-    5. % Overall Passing: 90.95% to 90.63% (-0.32%)
+#### Changes for Thomas HS 
+
+1. Average Math Score: 83.42 to 83.35 (-0.07)
+2. Average Reading Score: 83.85 to 83.90 (+0.05)
+3. % Passing Math: 93.27% to 93.19% (-0.08%)
+4. % Passing Reading: 97.31% to 97.02% (-0.29%)
+5. % Overall Passing: 90.95% to 90.63% (-0.32%)
+
+#### Charts 
+
 * Before: ![School_Analysis_Before](Images/School_Summary_Before.png)
 * After: ![School_Analysis_After](Images/School_Summary_After.png)
 
