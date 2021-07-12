@@ -62,15 +62,19 @@
 * Reading Changes: Thomas HS 9th grade's omission is the only change for reading scores by grade 
 
 * Math Before:
+
 ![Math_Scores_By_Grade_Before](Images/Math_Scores_By_Grade_Before.png)
 
 * Math After:
+
 ![Math_Scores_By_Grade_After](Images/Math_Scores_By_Grade_After.png)
 
 * Reading Before:
+
 ![Reading_Scores_By_Grade_Before](Images/Reading_Scores_By_Grade_Before.png)
 
 * Reading After:
+
 ![Reading_Scores_By_Grade_After](Images/Reading_Scores_By_Grade_After.png)
 
 ### Scores by School Spending
@@ -100,5 +104,5 @@
 
 ## Conclusion
 
-1. Removing Thomas HS ninth grade scores altered the results but not significantly. There are slight changes to the district summary. In addition, the results from Thomas HS differ from the initial analysis, such as the 0.32% decrease in % Overall Passing. 
+1. Removing Thomas HS 9th grade testscores altered the results but not significantly. There are slight changes to the district summary. In addition, the results from Thomas HS differ from the initial analysis, such as the 0.32% decrease in % Overall Passing. 
 2. Overall, the removal did not impact the data significantly. No changes in the data for the sections Scores by School Spending, Scores by School Size, and Scores by Schoool Type, demonstrate the validity of this claim. 
