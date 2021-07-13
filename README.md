@@ -128,4 +128,4 @@
 ## Conclusion
 
 1. Removing Thomas HS 9th grade testscores altered the results but not significantly. There are slight changes to the district summary. In addition, the results from Thomas HS differ from the initial analysis, such as the 0.32% decrease in % Overall Passing. 
-2. Overall, the removal did not impact the data significantly. No changes in the data for the sections Scores by School Spending, Scores by School Size, and Scores by Schoool Type, demonstrate the validity of this claim. 
+2. Overall, the removal did not impact the data significantly. No changes in the data for the sections Scores by School Spending, Scores by School Size, and Scores by School Type, demonstrate the validity of this claim. 
